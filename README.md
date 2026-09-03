@@ -27,4 +27,12 @@ Anomaly Detection
       ↓
 Streamlit Dashboard
       ↓
-Interactive Plotly Visualization
+Interactive Plotly Visualization## 📸 Dashboard Screenshots
+
+### Main Dashboard
+
+![Crypto Market Intelligence Dashboard](screenshots/dashboard-main.png)
+
+### Interactive Price Chart
+
+![Interactive Crypto Price Chart](screenshots/dashboard-chart.png)
